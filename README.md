@@ -142,7 +142,7 @@ The Q signal (Imag) data on the other hand always has an average value of zero.
 If we combine these two signals into a complex number series, and plot them on
     the complex plane, we'd get the following constellation diagram:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BPSK_Gray_Coded.svg/1280px-BPSK_Gray_Coded.svg.png"
+<img src="https://shopdelta.eu/obrazki_art/dpsk_img2_d.jpg"
     style="background-color:white;padding:5px;border-radius:3px"
     width="500px">
 
@@ -203,7 +203,7 @@ Using the same logic as above, and plotting this on a constellation diagram
     will give us the following constellation diagram (the bit positions are 
     not exactly correct, just ignore that for now).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/QPSK_Gray_Coded.svg/1280px-QPSK_Gray_Coded.svg.png"
+<img src="https://shopdelta.eu/obrazki_art/dpsk_img3_d.jpg"
     style="background-color:white;padding:5px;border-radius:3px"
     width="500px">
 
